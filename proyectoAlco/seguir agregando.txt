@@ -1,0 +1,144 @@
+
+<tr><td>		    
+<tr class="alt"><td>
+<tr><td>            
+<tr class="alt"><td>
+<tr><td>		    
+<tr class="alt"><td>
+<tr><td>		    
+<tr class="alt"><td>
+<tr><td>            
+<tr class="alt"><td>
+<tr><td>		    
+<tr class="alt"><td>
+<tr><td>		    
+<tr class="alt"><td>
+<tr><td>            
+<tr class="alt"><td>
+<tr><td>		    
+<tr class="alt"><td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+extracto de carne	</td><td>	1	</td><td>	cucharada de postre (aprox. 10 gr)	</td><td>	0,5	</td></tr>
+fécula de maíz	</td><td>	1	</td><td>	cucharada sopera (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+flan light Cormillot	</td><td>	1	</td><td>	compotera chica (100 gr)	</td><td>	0,75	</td></tr>
+fruta envasada light, promedio	</td><td>	1	</td><td>	mitad	</td><td>	0,25	</td></tr>
+frutas deshidratadas, promedio	</td><td>	1	</td><td>	orejon	</td><td>	0,5	</td></tr>
+frutillas 	</td><td>	1	</td><td>	taza tamaño té (aprox. 100 grs.)	</td><td>	0,75	</td></tr>
+galletita de salvado light	</td><td>	1	</td><td>	unidad (aprox. 7 grs.)	</td><td>	0,75	</td></tr>
+galletita dulce simple 50% menos grasa	</td><td>	1	</td><td>	unidad (aprox. 4 gr)	</td><td>	0,5	</td></tr>
+galletita integral 50 % menos en grasa	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+galletita integral	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+galletita integral light	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+galletita integral sin sal	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+galletitas de agua light -en grasas-	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,75	</td></tr>
+galletitas de salvado, Fargo	</td><td>	1	</td><td>	unidad (aprox. 7,5 grs.)	</td><td>	0,75	</td></tr>
+galletitas dulces limón light	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+galletitas dulces simples bajas en grasa	</td><td>	1	</td><td>	unidad (aprox. 4 gr)	</td><td>	0,5	</td></tr>
+galletitas Integrales 	</td><td>	1	</td><td>	unidad (aprox. 5 gr)(12,25 cr c/100g)	</td><td>	0,5	</td></tr>
+galletitas Integrales 50% menos grasa	</td><td>	1	</td><td>	unidad (aprox. 5 gr)(10,5 cr c/100g)	</td><td>	0,5	</td></tr>
+galletitas light de salvado	</td><td>	1	</td><td>	unidad (aprox. 7,5 gr)(9,75 cr c/100g)	</td><td>	0,75	</td></tr>
+galletitas Ser de manzana y avena	</td><td>	1	</td><td>	unidad	</td><td>	0,5	</td></tr>
+germen de trigo	</td><td>	1	</td><td>	cucharada sopera (aprox. 8 gr)	</td><td>	0,5	</td></tr>
+grisines	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+grisines de gluten sin sal	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+grisines sin sal	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+grisines trisalvado Cormillot	</td><td>	1	</td><td>	unidad (aprox. 5 grs.)	</td><td>	0,5	</td></tr>
+guayaba	</td><td>	1	</td><td>	unidad (aprox. 25 grs.)	</td><td>	0,25	</td></tr>
+guinda	</td><td>	1	</td><td>	taza tamaño té (aprox. 100 gr)	</td><td>	0,5	</td></tr>
+habanitos cubiertos de chocolate	</td><td>	1	</td><td>	unidad (aprox 5 gr)	</td><td>	0,75	</td></tr>
+harina de trigo integral	</td><td>	1	</td><td>	cucharada sopera (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+higo	</td><td>	1	</td><td>	unidad (aprox. 50 gr)	</td><td>	0,5	</td></tr>
+higo deshidratado	</td><td>	1	</td><td>	orejón (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+huevo de codorniz	</td><td>	1	</td><td>	unidad	</td><td>	0,5	</td></tr>
+jalea	</td><td>	1	</td><td>	cucharada de postre (aprx. 10 gr)	</td><td>	0,75	</td></tr>
+jamón cocido	</td><td>	1	</td><td>	feta (aprox. 15 gr)	</td><td>	0,75	</td></tr>
+jugo light de soja	</td><td>	1	</td><td>	vaso (aprox. 250 gr o cm3)	</td><td>	0,5	</td></tr>
+jugo para diluir	</td><td>	1	</td><td>	vaso	</td><td>	0,5	</td></tr>
+jurel al natural	</td><td>	1	</td><td>	porción de 100 gr	</td><td>	0,5	</td></tr>
+kani kama (surimi)	</td><td>	1	</td><td>	unidade (aprox. 18 grs.)	</td><td>	0,25	</td></tr>
+kiwi	</td><td>	1	</td><td>	unidad (aprox.65 gr)	</td><td>	0,5	</td></tr>
+langostino	</td><td>	1	</td><td>	unidad (aprox. 75 gr)	</td><td>	0,75	</td></tr>
+Leche descr. Ser con frutos del trópico	</td><td>	1	</td><td>	vaso (aprox. 200 cm3)	</td><td>	0,5	</td></tr>
+leche descremada en polvo	</td><td>	1	</td><td>	cucharada sopera (aprox. 20 gr)	</td><td>	0,75	</td></tr>
+leche descremada fluida	</td><td>	1	</td><td>	taza tamaño té (aprox.200 gr)	</td><td>	0,5	</td></tr>
+leche fermentada light c/ prebióticos	</td><td>	1	</td><td>	botellita de 100 gr 	</td><td>	0,25	</td></tr>
+levadura de cerveza 	</td><td>	1	</td><td>	cucharada sopera (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+levadura de cerveza seca Cormillot	</td><td>	1	</td><td>	cucharada tipo té	</td><td>	0,25	</td></tr>
+limón	</td><td>	1	</td><td>	unidad (aprox. 100 grs.)	</td><td>	0,5	</td></tr>
+malta	</td><td>	1	</td><td>	cda. tamaño postre (aprox. 10 gr)	</td><td>	0,25	</td></tr>
+mandarina	</td><td>	1	</td><td>	unidad chica (aprox 50 g)	</td><td>	0,5	</td></tr>
+manzana fruta deshidratada	</td><td>	1	</td><td>	orejón (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+mayonesa light	</td><td>	1	</td><td>	cda sopera (aprox. 15 gr)	</td><td>	0,75	</td></tr>
+melón	</td><td>	1	</td><td>	tajada 2 dedos de grosor (aprox. 100 gr)	</td><td>	0,5	</td></tr>
+mermelada 	</td><td>	1	</td><td>	cda. tamaño postre (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+mermelada light	</td><td>	1	</td><td>	cda. tamaño postre (aprox. 10 gr)	</td><td>	0,25	</td></tr>
+miel	</td><td>	1	</td><td>	cucharada de postre (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+mijo	</td><td>	1	</td><td>	cda. sopera (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+paleta	</td><td>	1	</td><td>	feta (aprox. 25 gr)	</td><td>	0,5	</td></tr>
+papaya	</td><td>	1	</td><td>	unidad chica (aprox. 100 grs.)	</td><td>	0,75	</td></tr>
+pasas de uva	</td><td>	1	</td><td>	"cucharada sopera (aprox. 10 gr) ó
+20 unidades "	</td><td>	0,75	</td></tr>
+pastrón	</td><td>	1	</td><td>	feta (aprox, 15 gr)	</td><td>	0,5	</td></tr>
+peceto	</td><td>	1	</td><td>	rodaja fina (aprox. 50 gr)	</td><td>	0,75	</td></tr>
+polvo Royal	</td><td>	1	</td><td>	cda. de postre (aprox. 10 gr) 5 cr c/100 gr	</td><td>	0,5	</td></tr>
+queso blanco semidescremado	</td><td>	1	</td><td>	cucharada de postre (aprox. 10 g)	</td><td>	0,5	</td></tr>
+queso blanco untable, descremado	</td><td>	1	</td><td>	cucharada de postre (aprox. 10 g)	</td><td>	0,25	</td></tr>
+queso dambo magro Cormillot	</td><td>	1	</td><td>	feta (aprox. 15 gr)	</td><td>	0,75	</td></tr>
+queso en hebras light	</td><td>	1	</td><td>	cda. sopera (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+queso finlandia light 7%	</td><td>	1	</td><td>	cucharada de postre	</td><td>	0,75	</td></tr>
+queso fundido light	</td><td>	1	</td><td>	cucharada de postre (10 gr)	</td><td>	0,5	</td></tr>
+queso port salut light untable 	</td><td>	1	</td><td>	cda. de postre (aprox. 12 gr)	</td><td>	0,25	</td></tr>
+queso ricotta	</td><td>	1	</td><td>	cda. tamaño postre (aprox. 10 gr)	</td><td>	0,5	</td></tr>
+queso tholen light 4%	</td><td>	1	</td><td>	cucharada de postre	</td><td>	0,5	</td></tr>
+queso untable descremado	</td><td>	1	</td><td>	cda. tamaño postre (aprox. 10 gr)	</td><td>	0,25	</td></tr>
+queso untable port salut Sancor	</td><td>	1	</td><td>	cucharada tipo postre (10 gr)	</td><td>	0,25	</td></tr>
+quinoa	</td><td>	1	</td><td>	cucharada sopera ( aprox 10 gr) 	</td><td>	0,75	</td></tr>
+remolacha (jugo)	</td><td>	1	</td><td>	vaso (aprox. 60 gr)	</td><td>	0,5	</td></tr>
+ricota	</td><td>	1	</td><td>	cda. tamaño postre (aprox 10 gr)	</td><td>	0,5	</td></tr>
+ricota descremada	</td><td>	1	</td><td>	cda. tamaño postre (aprox 10 gr)	</td><td>	0,25	</td></tr>
+salchicha de soja	</td><td>	1	</td><td>	unidad	</td><td>	0,75	</td></tr>
+salsa fileto	</td><td>	1	</td><td>	cucharada sopera (aprox. 15 gr)	</td><td>	0,25	</td></tr>
+salsa portuguesa	</td><td>	1	</td><td>	cucharada sopera (aprox. 15 gr)	</td><td>	0,25	</td></tr>
+salvado de avena	</td><td>	1	</td><td>	cucharada sopera (aprox. 10 gr)	</td><td>	0,75	</td></tr>
+salvado de trigo	</td><td>	1	</td><td>	cucharada sopera (aprox. 10 gr)	</td><td>	0,5	</td></tr>
+sandía	</td><td>	1	</td><td>	1 taj. de 2 dedos de ancho (Apr.100 gr)	</td><td>	0,75	</td></tr>
+semillitas de chía	</td><td>	1	</td><td>	cucharada sopera (aprox. 10 g)	</td><td>	0,5	</td></tr>
+semillitas de sésamo	</td><td>	1	</td><td>	cucharada sopera (aprox. 5 gr)	</td><td>	0,75	</td></tr>
+sidra light 	</td><td>	1	</td><td>	copa (100 cm3)	</td><td>	0,5	</td></tr>
+sopa light	</td><td>	1	</td><td>	taza grande (aprox 200 gr)	</td><td>	0,75	</td></tr>
+surimi (kani-kama)	</td><td>	1	</td><td>	unidad (aprox. 18 gr)	</td><td>	0,25	</td></tr>
+tortilla de acelga en rocío vegetal	</td><td>	 1/4	</td><td>	de tortilla chica	</td><td>	0,5	</td></tr>
+tostada light	</td><td>	1	</td><td>	unidad 	</td><td>	0,75	</td></tr>
+tostadas clásicas	</td><td>	1	</td><td>	unidad	</td><td>	0,75	</td></tr>
+tostadas de mesa	</td><td>	1	</td><td>	unidad (aprox. 6,5 grs.)	</td><td>	0,5	</td></tr>
+tostadas integrales	</td><td>	1	</td><td>	unidad (aprox. 6 grs.)	</td><td>	0,5	</td></tr>
+tostadas marca SER común o salvado	</td><td>	1	</td><td>	unidad 	</td><td>	0,75	</td></tr>
+yogurt descremado	</td><td>	1	</td><td>	pote (aprox. 200 gr)	</td><td>	0,75	</td></tr>
+zanahoria	</td><td>	1	</td><td>	unidad chica (aprox. 100 grs.)	</td><td>	0,75	</td></tr>
